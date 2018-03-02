@@ -1,6 +1,6 @@
 
 ---
-title: "Course Project: Shiny Application and Reproducible Pitch"
+title: "Presentation"
 author: "Malihehe Shomali"
 date: "February 28, 2018"
 output: ioslides_presentation
